@@ -1,3 +1,4 @@
 Name, Manufacturer, Configuration, Cylinders, Displacement, Peak Power, Peak Torque, Bore, Stroke, Valvetrain, VVT?, Head Material, Block Material, Fuel Delivery, Fuel Type, Cooling Method, Firing Order, Compression Ratio, Intake Method
 2JZ-GTE, Toyota Motor Corporation, Inline 6, 6, 2997mL, 239kW @ 5600rpm, 427Nm @ 4000rpm, 86mm, 86mm, Belt-driven DOHC, Yes, Cast Aluminium, Cast Iron, Direct Injection, RON 96, Water, 1-5-3-6-2-4, 8.5:1, Forced Induction (Turbocharged)
+2JZ-GE, Toyota Motor Corporation, Inline 6, 6, 2997mL, 158kW @ 5800rpm, 283Nm @ 3800rpm, 86mm, 86mm, Belt-driven DOHC, Yes, Cast Aluminium, Cast Iron, Direct Injection, RON 96, Water, 1-5-3-6-2-4, 8.5:1, Naturally Aspirated
 
